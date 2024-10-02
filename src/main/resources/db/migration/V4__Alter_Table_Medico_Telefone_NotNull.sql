@@ -1,0 +1,1 @@
+ALTER TABLE public.tb_medico ALTER COLUMN telefone SET NOT NULL;
